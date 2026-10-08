@@ -14,3 +14,7 @@ Release/
 # IDE 配置
 .metadata/
 .settings/language.settings.xml
+
+# 根目录非源码文件
+/.project
+/git操作.txt
